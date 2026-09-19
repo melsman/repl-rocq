@@ -1,6 +1,6 @@
 # REPL model correspondence in Rocq
 
-This is a small mechanised foundation for the paper, checked with Rocq 9.2.
+This is a small mechanised foundation for the technical paper [Crafting a REPL for HOT Compiled Execution](https://elsman.com/pdf/repl.pdf). The development is checked with Rocq 9.2.
 Run `make` to compile and `make check` to recheck the proof objects.
 The development uses only the standard library; there are no admitted proofs
 or global axioms.
